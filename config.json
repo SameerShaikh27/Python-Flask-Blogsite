@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/be limitless",
+    "prod_uri": "mysql://root:@localhost/be limitless",
+    "fb_url": "https://facebook.com/be limitless",
+    "twt_url": "https://twitter.com/be limitless",
+    "git_url": "https://github.com/be limitless",
+    "blog_name":"BE LIMITLESS",
+    "blog_head": "Be an Explorer",
+    "tag_line": "A Blog theme by Be an Explorer",
+    "no_of_posts": 3,
+    "login_image": "login.svg",
+    "admin_user": "lionelmessi10",
+    "admin_password": "123sam321",
+    "upload_location": "C:\\Users\\Sameer\\PycharmProjects\\Free World\\static\\img"
+
+  }
+
+}
